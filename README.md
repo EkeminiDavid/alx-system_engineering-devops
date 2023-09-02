@@ -1,0 +1,1 @@
+I'm currently exploring the possibilities of shell. I'll be sharing my knowledge through this repo
