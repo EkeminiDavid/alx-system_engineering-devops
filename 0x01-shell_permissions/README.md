@@ -1,0 +1,1 @@
+This directory consist some projects on shell permission
