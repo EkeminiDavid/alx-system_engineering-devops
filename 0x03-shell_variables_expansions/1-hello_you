@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $(alias user="id -un")"
+echo "hello $USER"
